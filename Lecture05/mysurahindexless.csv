@@ -1,0 +1,16 @@
+number,name,englishName,englishNameTranslation,numberOfAyahs,revelationType
+1,سُورَةُ ٱلْفَاتِحَةِ,Al-Faatiha,The Opening,7,Meccan
+2,سُورَةُ البَقَرَةِ,Al-Baqara,The Cow,286,Medinan
+3,سُورَةُ آلِ عِمۡرَانَ,Aal-i-Imraan,The Family of Imraan,200,Medinan
+4,سُورَةُ النِّسَاءِ,An-Nisaa,The Women,176,Medinan
+5,سُورَةُ المَائـِدَةِ,Al-Maaida,The Table,120,Medinan
+6,سُورَةُ الأَنۡعَامِ,Al-An'aam,The Cattle,165,Meccan
+7,سُورَةُ الأَعۡرَافِ,Al-A'raaf,The Heights,206,Meccan
+8,سُورَةُ الأَنفَالِ,Al-Anfaal,The Spoils of War,75,Medinan
+9,سُورَةُ التَّوۡبَةِ,At-Tawba,The Repentance,129,Medinan
+10,سُورَةُ يُونُسَ,Yunus,Jonas,109,Meccan
+11,سُورَةُ هُودٍ,Hud,Hud,123,Meccan
+12,سُورَةُ يُوسُفَ,Yusuf,Joseph,111,Meccan
+13,سُورَةُ الرَّعۡدِ,Ar-Ra'd,The Thunder,43,Medinan
+14,سُورَةُ إِبۡرَاهِيمَ,Ibrahim,Abraham,52,Meccan
+15,سُورَةُ الحِجۡرِ,Al-Hijr,The Rock,99,Meccan
